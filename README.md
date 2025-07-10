@@ -172,6 +172,7 @@ I implemented a smart "fall-back" mechanism leveraging LLM's background knowledg
 - **LLM Expansion:** The demo currently uses `sentence-transformers` for embeddings and leverages LLM via API. Integrating larger LLMs (e.g., LLaMA 3 or Mistral) locally for generation would require more powerful GPU resources and complex setup.  
 
 ## 7. License  
+<<<<<<< HEAD
 This project is released under the MIT License.
 
 ---
@@ -182,3 +183,4 @@ tags:
   - chatbot
   - apec2027
 ---
+
