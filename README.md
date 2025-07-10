@@ -173,3 +173,12 @@ I implemented a smart "fall-back" mechanism leveraging LLM's background knowledg
 
 ## 7. License  
 This project is released under the MIT License.
+
+---
+license: MIT
+language: en
+tags:
+  - gradio
+  - chatbot
+  - apec2027
+---
